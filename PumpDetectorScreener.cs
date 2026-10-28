@@ -4155,3 +4155,4 @@ namespace OsEngine.Robots.Screeners
         public DateTime LastCheckTime;
     }
 }
+//добавил код скринера
